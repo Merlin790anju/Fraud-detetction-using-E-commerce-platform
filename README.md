@@ -20,7 +20,7 @@ Welcome to the **E-commerce Fraud Detection** repository! This project aims to a
 - [Lessons Learned](#lessons-learned)
 - [Why I Created This Repository](#why-i-created-this-repository)
 - [License](#license)
-- [Contact](#contact)
+
 
 ---
 
